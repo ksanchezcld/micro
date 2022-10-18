@@ -59,6 +59,6 @@
     "is-stream": "1.1.0",
     "media-typer": "0.3.0",
     "mri": "1.1.0",
-    "raw-body": "2.3.2"
+    "raw-body": "2.5.1"
   }
 }
